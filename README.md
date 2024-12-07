@@ -9,3 +9,5 @@ This is a Windows PowerShell GUI form designed to help you find files on your lo
 3. Launch the app from the shortcut.
 
 Use this tool to quickly locate that long-lost file you've been trying to find!
+
+![image](https://github.com/user-attachments/assets/86b840ee-440a-49fd-9d78-d8a5bf4099c3)
