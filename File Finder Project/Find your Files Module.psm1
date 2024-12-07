@@ -191,7 +191,7 @@ $Form.BackColor = [System.Drawing.Color]::FromArgb(30, 30, 30)  # Dark modern ba
 $Form.StartPosition = "CenterScreen"
 $Form.AutoScroll = $true
 $Form.ShowIcon = $true
-$Form.Icon = 'C:\Users\Chall\Documents\File Finder Project\File Finder Icon.ico'
+$Form.Icon = 'C:\Users\$env:UserName\Documents\File Finder Project\File Finder Icon.ico'
 
 # Create an App Menu Strip
 $menuStrip = New-Object System.Windows.Forms.MenuStrip
